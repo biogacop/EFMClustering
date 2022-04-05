@@ -1,9 +1,4 @@
 
-
-# Content
-
-
-
 # How to import EFMs_full_ecolicore
 
 
@@ -15,5 +10,3 @@ with open(f, 'rb') as filehandle:
 
 
 ```
-
-
